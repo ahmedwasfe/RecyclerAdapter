@@ -1,0 +1,3 @@
+rootProject.name='RecuclerAdapter'
+include ':app'
+include ':recycleradapter'
