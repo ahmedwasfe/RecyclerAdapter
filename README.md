@@ -1,5 +1,5 @@
-# RecyclerAdapter
-Recycler Adapter
+# Adding to your project
+Add the following configuration in your build.gradle file.
 
 	allprojects {
 		repositories {
