@@ -1,14 +1,14 @@
 # RecyclerAdapter
 Recycler Adapter
 
-allprojects {
+	allprojects {
 		repositories {
 			...
 			maven { url 'https://jitpack.io' }
 		}
 	}
 
-dependencies {
+	dependencies {
 	        implementation 'com.github.ahmedwasfe:RecyclerAdapter:1.0'
 	}
    
