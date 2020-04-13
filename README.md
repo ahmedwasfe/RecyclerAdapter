@@ -6,7 +6,4 @@ allprojects {
 		...
 		maven { url 'https://jitpack.io' }
 		}
-    
-dependencies {
-	        implementation 'com.github.ahmedwasfe:RecyclerAdapter:1.0'
-	}
+   
